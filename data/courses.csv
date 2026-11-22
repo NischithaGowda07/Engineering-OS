@@ -1,0 +1,26 @@
+
+semester,course_code,course_name,credits,syllabus,status
+1,MA101,Engineering Mathematics I,4,"Matrices; Calculus; Differential Equations",Completed
+1,PH101,Engineering Physics,4,"Waves; Optics; Semiconductors",Completed
+1,CS101,Programming in C,4,"Basics; Loops; Functions",Completed
+2,MA201,Engineering Mathematics II,4,"ODE; Laplace Transforms",Completed
+2,CS201,Python Programming,4,"Python; Functions; Pandas",Completed
+2,EC201,Basic Electronics,3,"Diodes; Transistors",Completed
+3,CS301,Data Structures,4,"Stacks; Queues; Trees; Graphs",In Progress
+3,CS302,Database Management,4,"SQL; Normalization; Transactions",In Progress
+3,CS303,Java Programming,4,"OOP; Inheritance; Interfaces",Not Started
+4,CS401,Operating Systems,4,"Processes; Scheduling; Memory",Not Started
+4,CS402,Computer Networks,4,"TCP/IP; Routing; Protocols",Not Started
+4,CS403,Software Engineering,3,"SDLC; Testing; Design",Not Started
+5,CS501,Machine Learning,4,"Regression; Classification",Not Started
+5,CS502,Web Development,4,"HTML; CSS; JavaScript",Not Started
+5,CS503,Cloud Computing,3,"Virtualization; Cloud Services",Not Started
+6,CS601,Artificial Intelligence,4,"Search; Knowledge Representation",Not Started
+6,CS602,Cyber Security,4,"Cryptography; Network Security",Not Started
+6,CS603,Compiler Design,3,"Lexical Analysis; Parsing",Not Started
+7,CS701,Big Data Analytics,4,"Hadoop; Spark",Not Started
+7,CS702,Major Project I,4,"Planning; Implementation",Not Started
+7,CS703,Elective I,3,"As per selected syllabus",Not Started
+8,CS801,Major Project II,8,"Design; Development; Testing",Not Started
+8,CS802,Internship,4,"Industry Training",Not Started
+8,CS803,Elective II,3,"As per selected syllabus",Not Started
